@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://10.5.0.170/repo"
+   name=""
+   revision="1050"
+   last-author="svn"
+   url="svn://10.5.0.170/repo/people/fqq/Matrix/src/cn/ict/cn/galios"
+   uuid="0ab9899d-7534-4a98-92d7-b5782604bc1a"
+   committed-rev="1050"
+   kind="dir"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="FileProcessingTest.java"
+   checksum="746c467e560b35d0beac8c9a407dd929"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="FileSplitProcessing.java"
+   checksum="f92215fdd652eae98745088cd7761a07"
+   last-author="svn"
+   committed-rev="1049"
+   text-time="2011-09-19T02:18:27.000000Z"
+   kind="file"
+   committed-date="2011-09-19T02:18:27.346507Z"/>
+<entry
+   name="Galios8Num.java"
+   checksum="3dd6c06b4d958eb677c935e96dbd9406"
+   last-author="svn"
+   committed-rev="1044"
+   text-time="2011-09-15T08:09:12.000000Z"
+   kind="file"
+   committed-date="2011-09-15T08:09:12.123439Z"/>
+<entry
+   name="Matrix.java"
+   checksum="f91c5ea3cb84b961b28134fb486e83b9"
+   last-author="svn"
+   committed-rev="1041"
+   text-time="2011-09-07T09:09:49.000000Z"
+   kind="file"
+   committed-date="2011-09-07T09:09:49.756255Z"/>
+<entry
+   name="Number.java"
+   checksum="83d2488de51f3a3d1aabe7254460bef0"
+   last-author="svn"
+   committed-rev="1044"
+   text-time="2011-09-15T08:09:12.000000Z"
+   kind="file"
+   committed-date="2011-09-15T08:09:12.123439Z"/>
+<entry
+   name="Rational.java"
+   checksum="ed36fdfd141c39b7651a15e76bbf8f10"
+   last-author="svn"
+   committed-rev="1041"
+   text-time="2011-09-07T09:09:49.000000Z"
+   kind="file"
+   committed-date="2011-09-07T09:09:49.756255Z"/>
+<entry
+   name="Test.java"
+   checksum="12806d14061841242453fd13865fbbc2"
+   last-author="svn"
+   committed-rev="1049"
+   text-time="2011-09-19T02:18:27.000000Z"
+   kind="file"
+   committed-date="2011-09-19T02:18:27.346507Z"/>
+<entry
+   name="Vector.java"
+   checksum="97775cc55d4274d1328c7d5ce5a35539"
+   last-author="svn"
+   committed-rev="1044"
+   text-time="2011-09-15T08:09:12.000000Z"
+   kind="file"
+   committed-date="2011-09-15T08:09:12.123439Z"/>
+</wc-entries>

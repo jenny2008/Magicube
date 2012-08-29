@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="svn://10.5.0.170/repo"
+   name=""
+   revision="1050"
+   last-author="svn"
+   url="svn://10.5.0.170/repo/people/fqq/Matrix/src/Mcube"
+   uuid="0ab9899d-7534-4a98-92d7-b5782604bc1a"
+   committed-rev="1050"
+   kind="dir"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="Galios8Num.java"
+   checksum="7bc23419aef6646bbf89b728ad0b943e"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="Matrix.java"
+   checksum="116de2db7de4c69d538179d0dd719579"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="MessageRec.java"
+   checksum="7250214dc18dd84f9dcce4b17bac171f"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="MessageSplit.java"
+   checksum="db4e96de574747481f9029554663d94f"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="Number.java"
+   checksum="14919023d68fb993fc4c0601e0bcbaf7"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="Rational.java"
+   checksum="5958ed1881f44bd7962ca77222bdd0d4"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+<entry
+   name="Vector.java"
+   checksum="cf8c3e3c1b8fd7f2eef82c58e04da790"
+   last-author="svn"
+   committed-rev="1050"
+   text-time="2011-09-30T08:39:37.000000Z"
+   kind="file"
+   committed-date="2011-09-30T08:39:37.477273Z"/>
+</wc-entries>
